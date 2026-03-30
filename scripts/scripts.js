@@ -151,7 +151,7 @@ const CONFIG = {
     mena_en: ['bh', 'dz', 'iq', 'ir', 'jo', 'lb', 'ly', 'om', 'ps', 'sy', 'tn', 'ye'],
   },
   lingoProjectSuccessLogging: 'on',
-  onlybanner: true,
+  onlybanner: 'on',
 };
 
 const eagerLoad = (img) => {
